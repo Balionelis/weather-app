@@ -5,8 +5,7 @@ from tkinter import *
 from PIL import ImageTk, Image
 import io
 
-
-api_key = 'API_KEY'
+api_key = '2beedc5bb7499d437250644781ea653a'
 
 root = Tk()
 root.title("Weather App")
